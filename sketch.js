@@ -47,6 +47,7 @@ function draw() {
   background(255,250,250);
   Engine.update(engine);
   
+  
   bob1.display();
   bob2.display();
   bob3.display();
